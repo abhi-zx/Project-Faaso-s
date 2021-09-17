@@ -242,12 +242,12 @@ function showInCart(p) {
     localStorage.setItem('totalCartAmount', JSON.stringify(totalCartAmount));
   }
 }
-start 
+// start 
 
 
 
 
 
-end
+// end
 
 
